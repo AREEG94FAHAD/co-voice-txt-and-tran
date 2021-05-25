@@ -2,7 +2,11 @@
 for more details vist [IBM Waston](https://www.ibm.com/cloud/watson-text-to-speech)
 
 # live demo
-@voice_to_text_trn_areeg_bot
+@voice_t_txt_arg_bot
+
+# Image
+![voice](https://user-images.githubusercontent.com/30151596/119550897-a032cc00-bda1-11eb-91a6-3210511728f0.jpg)
+
 
 # Features
 - convert voice to text
