@@ -32,7 +32,7 @@ This will install all of the required packages we selected within the `requireme
 - To run the server, execute:
 
 ```
-python resizeImage.py
+python Speech_to_Text.py
 ```
 # Resources
 - [Python Basics for Data Science](https://www.edx.org/new/course/python-basics-for-data-science)
