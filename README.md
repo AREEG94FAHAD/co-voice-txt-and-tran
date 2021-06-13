@@ -1,4 +1,4 @@
-# A telegram bot to convert voice into text and translating it 🎤 ➡️ 📜 
+# A telegram bot to convert a voice into text and translate it 🎤 ➡️ 📜 
 for more details vist [IBM Waston](https://www.ibm.com/cloud/watson-text-to-speech)
 
 # live demo
